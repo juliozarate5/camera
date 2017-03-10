@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.lajdevelopers.cam" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Efectos Cam</name>
+    <description>
+        App Phonegap sencilla para efectos con la cam
+    </description>
+    <author email="juliozarate5@hotmail.com" href="http://www.lajdevelopers.com">
+        Julio Martinez
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
